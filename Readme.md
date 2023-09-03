@@ -48,3 +48,17 @@ The software provides different types of services for different types of cars an
 * The bill will be displayed, showing the details of the selected services and the total bill amount.
 
 * If you want to select another car for servicing, choose option 1 again. Otherwise, choose option 2 to exit the program.
+    ## Author
+
+👤 **Priya Mukherjee**
+
+* GitHub: [priyamukherjee468](https://github.com/priyamukherjee468)
+
+* LinkedIn: [Priya Mukherjee](www.linkedin.com/in/priya-mukherjee14)
+    
+    
+## Show your support
+
+Give a ⭐️ if this project helped you!
+    
+---
